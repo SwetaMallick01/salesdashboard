@@ -25,3 +25,11 @@ Used different types of customized visualization (bar chart, clustered bar chart
 
 ### DASHBOARD ###
 <img width="1052" alt="Screenshot 2023-07-07 220946" src="https://github.com/SwetaMallick01/salesdashboard/assets/132562651/a7f2863b-6072-4c99-ae2a-195191e7d25c">
+
+### Project Insight ###
+Top 5 customers: Tamara Chand, Raymond Buch, Sanjit Chand, Hunter Lopez, Adrian Barton.
+
+The store generates the maximum sales from Furniture, Office Supplies and Technology categories.
+
+Top performing States: California New York, Texas, Washington, Pennsylvania.
+
