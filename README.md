@@ -1,4 +1,4 @@
-## Salesdashboard(EXCEL) ##
+## Sales Dashboard(EXCEL) ##
 
 Creating Interactive Dashboard of store 
 
