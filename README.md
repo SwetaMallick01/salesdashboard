@@ -1,6 +1,6 @@
 ## Sales Dashboard(EXCEL) ##
 
-Creating Interactive Dashboard of store 
+The goal of this interactive dashboard is to provide a comprehensive overview of store performance, allowing stakeholders to track key metrics and make data-driven decisions.
 
 ### Objective ###
 The owner of wants us to create an interactive dashboard to track and analyze their sales.
